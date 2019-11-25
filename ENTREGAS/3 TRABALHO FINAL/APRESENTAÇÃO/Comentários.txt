@@ -1,0 +1,55 @@
+	Boas práticas de apresentação (Ubaldo):
+
+
+
+		Letra nos slides: 24 ou maior
+
+		Não ler slides
+
+		Não inserir textos
+
+		Apresentar voltado aos espectadores
+
+		Para apresentação de 5 minutos, não mais que 10 slides
+
+		Evitar template escuro com letra branca
+
+		Terminar com slide de referências, ao invés de "Obrigado".
+
+		(Algumas referências podem aparecer durante a apresentação - Fonte de 8 a 10)
+
+		Dica: Utilizar animações (sem exageros) durante transições para chamar a atenção
+ dos espectadores para os slides.
+		
+
+
+**CAPACIDADE DE SÍNTESE** terá muito peso na avaliação.
+ -> Colocar nos slides apenas o que é mais importante.
+
+
+Minhas sugestões para atender o Ubaldo:
+	Geral:
+		Trocar frases por no máximo 4 palavras ou imagens
+		Mudar os tons das cores do fundo para claro e das letras para escuro
+		
+	Introdução: 
+		Colocar os números da Baascom, tipo: 70 mil novas vagas x 24 mil formados (anualmente)
+		trocar texto por imagens para representar Scratch, code Monkey e Lightbot
+
+	Objetivos: Menos texto, ex:
+		Métodos didáticos;
+		Jogos para WEB -> Ferramentas;
+		Modelagem e desenvolvimento;
+		Teste e validação.
+ 
+	Justificativa
+		No trabalho não tem a INEP (Mas seria legal inserir as taxas de reprovação no slide)
+		Demais tópicos (Mesma ideia, reduzir palavras, se possível colocar imagens)
+
+	Fundamentação teórica(Podemos ter 2 slides aqui):
+		Metodologia escolhida não foi a ágil (deixa só 'Metodologias de desenvolvimento')
+
+	Metodologia (Podemos ter 2 slides aqui):
+		Metodologia de desensenvolvimento: clássica (sequencial)
+		Seria também interessante colocar o diagrama de caso de uso e algumas figuras do jogo 
+			
